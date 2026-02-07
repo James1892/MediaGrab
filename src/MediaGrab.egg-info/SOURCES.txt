@@ -1,0 +1,9 @@
+LICENSE.txt
+README.md
+setup.py
+src/MediaGrab.egg-info/PKG-INFO
+src/MediaGrab.egg-info/SOURCES.txt
+src/MediaGrab.egg-info/dependency_links.txt
+src/MediaGrab.egg-info/entry_points.txt
+src/MediaGrab.egg-info/requires.txt
+src/MediaGrab.egg-info/top_level.txt
