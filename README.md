@@ -2,34 +2,6 @@
 
 MediaGrab is a cross-platform Python application for downloading audio and video content from multiple websites, including YouTube, Twitch, and more. It supports single videos, multiple downloads, and full playlists.
 
-## Screenshots
-
-### Main Screen
-
-
-
-### Audio Download
-
-
-
-### Video Download
-
-
-
-### Batch Download
-
-
-
-### PlayList Download
-
-
-
-### Configuration
-
-
-
-## Installation
-
 To use MediaGrab, follow these steps:
 
 1. Clone the repository:
